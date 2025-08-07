@@ -4,8 +4,8 @@
             <h1 .header>
                 Hola Haskell
 
-
-            <a href="http://www.github/LupitaZP/miyesod" .btn.btn-info.btn-lg>
+                    
+            <a href="https://github.com/LupitaZP/yesod-simple" .btn.btn-info.btn-lg>
                 go to my repo
 
 <div .container>
